@@ -1,0 +1,20 @@
+print("El nombre de tu cervezza es: " + input("Pais de la cerveza: ") + " " + input("Ciudad de la cerveza: "))
+
+
+Esto imprimirá un programa que hará dos preguntas y después mostrará el resultado de ambas.
+
+
+TIPOS DE DATOS 
+
+"hola" = String(str)
+150 = integer(int)
+10,5 = floating(float)
+["juan","pablo"] = listas(list) Similar a Array en otros lenguajes
+{'color':'rojo'} = diccionarios(dic), clave => valor
+tuples(tuple) = ('lun','mar'), no se puede modificar el orden nunca
+sets(set) = {'a','b','c'}, elementos únicos e irrepetibles
+booleanos(bool) = true o false
+
+
+
+

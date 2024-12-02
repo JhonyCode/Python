@@ -1,0 +1,12 @@
+set (1,2,3,4,5) -> Solo un elemento
+
+Admite tuples
+
+Variable.add() = Añadir
+Variable.remove() = Remover/Eliminar
+
+ Todos los elementos que quieras {1,2,3,4,5}
+
+
+
+
